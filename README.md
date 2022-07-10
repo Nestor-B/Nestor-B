@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nestor-B
 - 👀 I’m interested in web tecnology
-- 🌱 I’m currently learning web technology as laravel
+- 🌱 I’m currently learning web technology as Javascript
 - 💞️ I’m looking to collaborate on remote community or group.
 - 📫 How to reach me benjamincanario09@gmail.com
 
